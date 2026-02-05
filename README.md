@@ -36,4 +36,5 @@ D'abord attiré par les interactions stratégiques de la **théorie des jeux**, 
 | **Communication** | LaTeX, Rédaction Scientifique (Fr/En) |
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](ton-lien-linkedin)
+---
+[![Email](https://img.shields.io/badge/Email-mon.email%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:yacine.klikel%40ens-lyon.fr)
