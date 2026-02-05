@@ -1,5 +1,5 @@
 # Yacine Klikel
-[![Email](https://img.shields.io/badge/Email-yacine.klikel%40ens-lyon.fr-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:yacine.klikel@ens-lyon.fr)
+[![Email](https://img.shields.io/badge/Email-yacine.klikel%40ens-lyon.fr-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:yacine.klikel%40ens-lyon.fr)
 
 **Étudiant en Double Diplôme : ENS de Lyon (Physique) & École des Ponts ParisTech (Maths/Info)**
 
