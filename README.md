@@ -1,4 +1,4 @@
-# Yacine K.
+# Yacine Klikel
 
 **Étudiant en Double Diplôme : ENS de Lyon (Physique) & École des Ponts ParisTech (Maths/Info)**
 
