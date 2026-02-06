@@ -3,7 +3,6 @@
 
 **Étudiant en Double Diplôme : ENS de Lyon (Physique) & École des Ponts ParisTech (Maths/Info)**
 
-
 Je cherche à allier intuition physique et rigueur mathématique pour comprendre en profondeur le monde qui nous entoure.
 
 D'abord attiré par les interactions stratégiques de la **théorie des jeux**, je me tourne aujourd'hui vers le RL appliqué à la robotique, visant à y traduire ces concepts théoriques en intelligence motrice concrète.
@@ -30,10 +29,9 @@ D'abord attiré par les interactions stratégiques de la **théorie des jeux**, 
 
 | Domaine | Outils & Concepts |
 | :--- | :--- |
+| **C++ & Algorithmique** | **OOP** (Polymorphism, Templates), **STL**, Gestion Mémoire (Smart Pointers), **CMake**, Structures de Données (BST, Quadtrees, Tries) |
 | **Scientific Python** | Numba (JIT), NumPy, Pandas, SciPy, Matplotlib |
-| **Machine Learning** | **PyTorch**,  Scikit-learn <br>  (AlexNet, ResNet, PointNet,DDPM) |
+| **Machine Learning** | **PyTorch**,  Scikit-learn <br>  (AlexNet, ResNet, PointNet, DDPM) |
 | **Dev & Ops** | Git, Linux/Bash <br> (bases en SQL, HTML, Javascript) |
 | **Maths & Physique** | Phystat, Calcul Stochastique, MFG, Systèmes Dynamiques |
 | **Communication** | LaTeX, Rédaction Scientifique (Fr/En) |
-
----
