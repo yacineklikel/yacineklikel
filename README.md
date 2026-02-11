@@ -9,7 +9,7 @@ D'abord attiré par la **théorie des jeux** (en particulier les jeux a champs m
 
 ---
 
-### Projets & Expériences
+### Quelques Projets & Expériences
 
 * **[Mean Field Control in Power Grids](https://github.com/yacineklikel/physics_internship_m1)** *(Stage de Recherche M1)*
     * Analyse approfondie de la **dynamique des Jeux à Champs Moyens (MFG)** intrinsèque aux réseaux électriques, au-delà de la simple étude de stabilité.
@@ -25,7 +25,7 @@ D'abord attiré par la **théorie des jeux** (en particulier les jeux a champs m
 
 ---
 
-### 🛠 Compétences Techniques
+### Compétences Techniques
 
 | Domaine | Outils & Concepts |
 | :--- | :--- |
