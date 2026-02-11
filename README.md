@@ -29,7 +29,7 @@ D'abord attiré par la **théorie des jeux** (en particulier les jeux a champs m
 
 | Domaine | Outils & Concepts |
 | :--- | :--- |
-| **C++ & Algorithmique** | **OOP** (Polymorphism, Templates), **STL**, Gestion Mémoire (Smart Pointers), **CMake**, Structures de Données (BST, Quadtrees, Tries) |
+| **C++ & Algorithmique** | **OOP** (Polymorphism, Templates), **STL**, Gestion Mémoire (Smart Pointers), **CMake**,<br> Structures de Données (BST, Quadtrees, Tries) |
 | **Scientific Python** | Numba (JIT), NumPy, Pandas, SciPy, Matplotlib |
 | **Machine Learning** | **PyTorch**,  Scikit-learn <br>  (AlexNet, ResNet, PointNet, DDPM) |
 | **Dev & Ops** | Git, Linux/Bash <br> (bases en SQL, HTML, Javascript) |
