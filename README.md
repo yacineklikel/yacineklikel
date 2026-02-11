@@ -5,21 +5,21 @@
 
 Je cherche à allier intuition physique et rigueur mathématique pour comprendre en profondeur le monde qui nous entoure.
 
-D'abord attiré par les interactions stratégiques de la **théorie des jeux**, je me tourne aujourd'hui vers le RL appliqué à la robotique, visant à y traduire ces concepts théoriques en intelligence motrice concrète.
+D'abord attiré par la **théorie des jeux** (en particulier les jeux a champs moyens), je me tourne aujourd'hui vers le RL appliqué à la robotique.
 
 ---
 
 ### Projets & Expériences
 
-* **[Mean Field Control in Power Grids](lien-vers-ton-repo-mean-field)** *(Stage de Recherche M1)*
+* **[Mean Field Control in Power Grids](https://github.com/yacineklikel/physics_internship_m1)** *(Stage de Recherche M1)*
     * Analyse approfondie de la **dynamique des Jeux à Champs Moyens (MFG)** intrinsèque aux réseaux électriques, au-delà de la simple étude de stabilité.
     * **Approche Hybride :** Résolution analytique des équations du jeu et simulation numérique intensive (HPC) optimisée d'abord en **Julia** puis en **Python** via **Numba (JIT)**.
 
-* **[FlashcardGen: Intelligent Learning](lien-vers-ton-repo-tdlog)** *(Projet scolaire en autonomie)*
+* **[FlashcardGen: Intelligent Learning](https://github.com/yacineklikel/TDLOG_project)** *(Projet scolaire en autonomie)*
     * Plateforme web d'apprentissage utilisant l'algorithme de répétition espacée (SM-2).
     * **Focus :** Rigueur logicielle. Architecture modulaire, **Flask**, et une suite complète de tests (CI/CD) pour garantir la fiabilité.
 
-* **[Random Matrix Analysis](lien-vers-ton-repo-wigner)** *(Projet scolaire en autonomie)*
+* **[Random Matrix Analysis](https://github.com/yacineklikel/theoreme_de_Wigner)** *(Projet scolaire en autonomie)*
     * Exploration numérique du Théorème de Wigner.
     * **Focus :** Comprendre les outils théoriques (Matrices Aléatoires) clés pour étudier différents systèmes complexes et plus récemment des réseaux de neuronnes.
 
