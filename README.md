@@ -11,6 +11,11 @@ D'abord attiré par la **théorie des jeux** (en particulier les jeux a champs m
 
 ### Quelques Projets & Expériences
 
+* **[Structured RL on Enduro](https://github.com/yacineklikel/structured_rl_atari)** *(Projet de Recherche personnel)*
+    * Mise en œuvre du **Structured Reinforcement Learning (SRL)** basé sur les travaux de Hoppe et al. (2025) pour s'attaquer au benchmark classique Atari Enduro.
+    * **Innovation :** Utilisation de la **perte de Fenchel-Young** pour intégrer une couche d'optimisation combinatoire de bout en bout dans une architecture Actor-Critic.
+    * **Performance :** Optimisation MPS pour **Apple Silicon**, permettant de réaliser un run complet en moins de **2h30** sur Mac Mini M4.
+
 * **[Mean Field Control in Power Grids](https://github.com/yacineklikel/physics_internship_m1)** *(Stage de Recherche M1)*
     * Analyse approfondie de la **dynamique des Jeux à Champs Moyens (MFG)** intrinsèque aux réseaux électriques, au-delà de la simple étude de stabilité.
     * **Approche Hybride :** Résolution analytique des équations du jeu et simulation numérique intensive (HPC) optimisée d'abord en **Julia** puis en **Python** via **Numba (JIT)**.
