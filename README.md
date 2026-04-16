@@ -11,7 +11,7 @@ D'abord attiré par la **théorie des jeux** (en particulier les jeux a champs m
 
 ### Quelques Projets & Expériences
 
-* **[Structured RL on Enduro](https://github.com/yacineklikel/structured_rl_atari)** *(Projet de Recherche personnel)*
+* **[Structured RL on Enduro](https://github.com/yacineklikel/structured_rl_atari)** *(Projet scolaire en autonomie)*
     * Mise en œuvre du **Structured Reinforcement Learning (SRL)** basé sur les travaux de Hoppe et al. (2025) pour s'attaquer au benchmark classique Atari Enduro.
     * **Innovation :** Utilisation de la **perte de Fenchel-Young** pour intégrer une couche d'optimisation combinatoire de bout en bout dans une architecture Actor-Critic.
     * **Performance :** Optimisation MPS pour **Apple Silicon**, permettant de réaliser un run complet en moins de **2h30** sur Mac Mini M4.
