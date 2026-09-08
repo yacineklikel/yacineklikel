@@ -5,8 +5,6 @@
 
 Je cherche à allier intuition physique et rigueur mathématique pour comprendre en profondeur le monde qui nous entoure.
 
-D'abord attiré par la **théorie des jeux** (en particulier les jeux a champs moyens), je me tourne aujourd'hui vers le RL appliqué à la robotique.
-
 ---
 
 ### Quelques Projets & Expériences
